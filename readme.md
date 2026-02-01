@@ -3,15 +3,15 @@
 A **content-based Book Recommendation System** built using **Python, Pandas, scikit-learn, and Streamlit**.  
 The system recommends books based on textual similarity using **TF-IDF Vectorization** and **Cosine Similarity**.
 
----
+<!-- ---
 
 ## 🚀 Live Demo (Render)
 👉 https://book-recommender.onrender.com  
 
----
+--- -->
 
 ## 📂 GitHub Repository
-👉 https://github.com/your-username/book-recommender  
+👉 https://github.com/ash-iiiiish/Book-Recommendation-System 
 
 ---
 
